@@ -39,8 +39,21 @@
 
 ### Детекция на видео (predict_video.py)
 
+threshold = 0.7
+
 ![ezgif com-video-to-gif (1)](https://github.com/Faig22/Turtles_detection_on_video/assets/95417164/006514d8-b8b7-4fd1-a10b-c6e5af57f7b9)
 
+threshold = 0.5
+
+![ezgif com-video-to-gif (2)](https://github.com/Faig22/Turtles_detection_on_video/assets/95417164/b44afc74-6d04-4036-ab9d-c1afdd735453)
+
+threshold = 0.7
+
+![ezgif com-video-to-gif (4)](https://github.com/Faig22/Turtles_detection_on_video/assets/95417164/c6141012-d84d-40c2-b7ab-bb41a29cac97)
+
+
+threshold = 0.5
   
+![ezgif com-video-to-gif (3)](https://github.com/Faig22/Turtles_detection_on_video/assets/95417164/efeae139-aa21-4bb0-a94b-1a492002787b)
 
 
