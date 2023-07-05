@@ -1,0 +1,7 @@
+path: '/content/gdrive/My Drive/Deep Learning projects/Object_detection_Yolo_v8' # dataset root dir
+train: train/images  # train images (relative to 'path')
+val: val/images  # val images (relative to 'path')
+
+# Classes
+names:
+  0: turtle
