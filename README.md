@@ -37,12 +37,9 @@
 
 
 
+### Детекция на видео (predict_video.py)
 
-
-[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
-
-
-
+![ezgif com-video-to-gif (1)](https://github.com/Faig22/Turtles_detection_on_video/assets/95417164/006514d8-b8b7-4fd1-a10b-c6e5af57f7b9)
 
   
 
