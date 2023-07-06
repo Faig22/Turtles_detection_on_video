@@ -39,6 +39,14 @@
 
 ### Детекция на видео (predict_video.py)
 
+Составлена функция, которая на вход принимает несколько параметров:
+-    ***in_video_name*** - название видео, которая подается в модель
+-    ***out_video_name*** - название видео, которая быдет на выходе модели
+-    ***model_path*** - путь до весов нашей модели
+-    ***threshold*** - порог, необходимый для отрисовки боксов на видео
+
+Далее представлены видео с задетектированными черепахами с различными значениями ***threshold*** 
+
 threshold = 0.7
 
 ![ezgif com-video-to-gif (1)](https://github.com/Faig22/Turtles_detection_on_video/assets/95417164/006514d8-b8b7-4fd1-a10b-c6e5af57f7b9)
@@ -50,7 +58,6 @@ threshold = 0.5
 threshold = 0.7
 
 ![ezgif com-video-to-gif (4)](https://github.com/Faig22/Turtles_detection_on_video/assets/95417164/c6141012-d84d-40c2-b7ab-bb41a29cac97)
-
 
 threshold = 0.5
   
